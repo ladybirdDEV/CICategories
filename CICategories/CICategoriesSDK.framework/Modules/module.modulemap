@@ -1,6 +1,0 @@
-framework module CICategoriesSDK {
-  umbrella header "CICategoriesSDK.h"
-
-  export *
-  module * { export * }
-}

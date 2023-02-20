@@ -1,0 +1,6 @@
+framework module CICategories {
+  umbrella header "CICategories.h"
+
+  export *
+  module * { export * }
+}

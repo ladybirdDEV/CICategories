@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint CICategoriesSDK.podspec' to ensure this is a
+# Be sure to run `pod lib lint CICategories.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CICategoriesSDK'
-  s.version          = '0.1.7'
+  s.name             = 'CICategories'
+  s.version          = '0.1.8'
   s.summary          = 'A short description of CICategories.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
-  s.vendored_frameworks = "CICategories/CICategoriesSDK.framework"
+  s.vendored_frameworks = "CICategories/CICategories.framework"
 
   s.frameworks = 'Accelerate'
   s.libraries = 'z'

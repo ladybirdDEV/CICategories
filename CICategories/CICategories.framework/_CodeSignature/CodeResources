@@ -12,10 +12,6 @@
 		<data>
 		wVv0Q1SjH/PtIPnD0K6f/KaoAYY=
 		</data>
-		<key>Headers/CICategoriesSDK.h</key>
-		<data>
-		D8T8agR08OKyjTXGgCY6pozdMzs=
-		</data>
 		<key>Headers/NSArray+CIAdd.h</key>
 		<data>
 		FXrbwv6oRvxFPzkGOLWuJvHaZms=
@@ -66,11 +62,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WQcy49/VUgBQffPMekWPh1z6Pl8=
+		CqnTD6vMvwX9oknk7QPC4qKHX7s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		k5lUT8xESozUnhOh4jBsyR22nUw=
+		3YlMVAxZqxv/1wssr/VptJtYdn8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -95,17 +91,6 @@
 			<key>hash2</key>
 			<data>
 			R0Nj7S1hQ7n+595LJohpRzRPCAuth680pX9CbHWh9WY=
-			</data>
-		</dict>
-		<key>Headers/CICategoriesSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			D8T8agR08OKyjTXGgCY6pozdMzs=
-			</data>
-			<key>hash2</key>
-			<data>
-			kmlpajtTqjH1AiNIJlDfdq3gkNwvvwemuwFvDHZIpFw=
 			</data>
 		</dict>
 		<key>Headers/NSArray+CIAdd.h</key>
@@ -244,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k5lUT8xESozUnhOh4jBsyR22nUw=
+			3YlMVAxZqxv/1wssr/VptJtYdn8=
 			</data>
 			<key>hash2</key>
 			<data>
-			/6XfLXq4dM5w3FQ7Z5SXX+CEZtXcRii854qN6rKlkJk=
+			JCY7a3A8WArRcub1lQv5iSqXEJYGxuawpI0MWrkG990=
 			</data>
 		</dict>
 	</dict>
